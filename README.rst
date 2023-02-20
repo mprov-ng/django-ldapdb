@@ -1,9 +1,13 @@
 django-ldapdb
 =============
 
-.. image:: https://img.shields.io/github/actions/workflow/status/mprov-ng/django-ldapdb/ci_tests.yaml?style=plastic
+.. image:: https://img.shields.io/github/actions/workflow/status/mprov-ng/django-ldapdb/ci_tests.yaml?label=CI%20Checks&style=plastic
     :target: https://github.com/mprov-ng/django-ldapdb/actions
-    :alt: Actions Status
+    :alt: CI Status
+
+.. image:: https://img.shields.io/github/actions/workflow/status/mprov-ng/django-ldapdb/pypi.yaml?label=PyPi%20Publish&style=plastic
+    :target: https://github.com/mprov-ng/django-ldapdb/actions
+    :alt: PyPi Publish Status
 
 .. image:: https://img.shields.io/pypi/v/mprov-django-ldapdb.svg
     :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
