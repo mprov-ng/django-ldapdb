@@ -1,25 +1,30 @@
 django-ldapdb
 =============
 
-.. image:: https://secure.travis-ci.org/django-ldapdb/django-ldapdb.png?branch=master
-    :target: http://travis-ci.org/django-ldapdb/django-ldapdb/
+.. image:: https://img.shields.io/github/actions/workflow/status/mprov-ng/django-ldapdb/ci_tests.yaml?style=plastic
+    :target: https://github.com/mprov-ng/django-ldapdb/actions
+    :alt: Actions Status
 
-.. image:: https://img.shields.io/pypi/v/django-ldapdb.svg
-    :target: https://pypi.python.org/pypi/django-ldapdb/
+.. image:: https://img.shields.io/pypi/v/mprov-django-ldapdb.svg
+    :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: Latest Version
 
-.. image:: https://img.shields.io/pypi/pyversions/django-ldapdb.svg
-    :target: https://pypi.python.org/pypi/django-ldapdb/
+.. image:: https://img.shields.io/pypi/pyversions/mprov-django-ldapdb.svg
+    :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: Supported Python versions
 
 .. image:: https://img.shields.io/pypi/wheel/django-ldapdb.svg
-    :target: https://pypi.python.org/pypi/django-ldapdb/
+    :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: Wheel status
 
-.. image:: https://img.shields.io/pypi/l/django-ldapdb.svg
-    :target: https://pypi.python.org/pypi/django-ldapdb/
+.. image:: https://img.shields.io/pypi/l/mprov-django-ldapdb.svg
+    :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: License
 
+NOTE: This is a fork of the original repository: https://github.com/django-ldapdb/django-ldapdb
+
+This may be ahead or behind of that repo and is presented here and on pypi for 
+compatability with mProv.
 
 ``django-ldapdb`` is an LDAP database backend for Django, allowing to manipulate
 LDAP entries through Django models.
