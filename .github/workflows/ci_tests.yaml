@@ -34,7 +34,7 @@ jobs:
       - name: Install Dependancies
         run: |
           sudo apt-get update
-          sudo apt-get install slapd ldap-utils
+          sudo apt-get install slapd ldap-utils build-essential python3-dev libldap2-dev libsasl2-dev slapd ldap-utils lcov
           python -m pip install --upgrade pip
           pip install tox
 
