@@ -17,7 +17,7 @@ django-ldapdb
     :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: Supported Python versions
 
-.. image:: https://img.shields.io/pypi/wheel/django-ldapdb.svg
+.. image:: https://img.shields.io/pypi/wheel/mprov-django-ldapdb.svg
     :target: https://pypi.python.org/pypi/mprov-django-ldapdb/
     :alt: Wheel status
 
