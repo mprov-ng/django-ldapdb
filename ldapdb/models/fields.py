@@ -368,7 +368,7 @@ EPOCH = datetime.datetime.fromtimestamp(0, timezone.utc)
 
 
 def datetime_from_timestamp(ts):
-    return datetime.datetime.fromtimestamp(ts, timezone.utc)
+    return datetime.datetime.fromtimestamp(int(ts), timezone.utc)
 
 
 def timestamp_from_datetime(dt):
